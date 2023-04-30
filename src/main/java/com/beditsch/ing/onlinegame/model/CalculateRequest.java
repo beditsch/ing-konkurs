@@ -1,8 +1,6 @@
 package com.beditsch.ing.onlinegame.model;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
 
 public class CalculateRequest {
     private final int groupCount;
